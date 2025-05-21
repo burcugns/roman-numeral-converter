@@ -4,9 +4,9 @@ This is a simple and elegant **Roman Numeral Converter** web app built with **HT
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
-<img src="Screenshot.png" alt="Example Screenshot" width="200" />
+<img src="Screenshot.png" alt="Example Screenshot" width="400" />
 
 ---
 
